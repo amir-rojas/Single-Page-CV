@@ -7,4 +7,4 @@ Current Status:
 - [ ] Phase 2: Styling with CSS
 - [ ] Phase 3: Interactivity with JavaScript
 
-Project URL: https://github.com/amir-rojas/Single-Page-CV
+Project URL: [https://github.com/amir-rojas/Single-Page-CV](https://roadmap.sh/projects/single-page-cv)
